@@ -6,9 +6,6 @@ Cashbook Hive is a mobile application developed using Flutter, GetX, and Hive, d
 
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
 
-## Download
-
-[![Download APK](https://img.icons8.com/color/48/000000/download-2.png)](https://github.com/yourusername/cashbook_hive/blob/main/apk/app-release.apk)
 
 ## Table of Contents
 
