@@ -1,11 +1,9 @@
 # Cashbook Hive App
 
 Cashbook Hive is a mobile application developed using Flutter, GetX, and Hive, designed to help users manage their daily spending. The app features a well-structured architecture and provides a seamless user experience with various functionalities.
-
 ## Video
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
-
+[![Watch the video](https://img.youtube.com/vi/J4wfL755pDU/0.jpg)](https://www.youtube.com/watch?v=J4wfL755pDU)
 
 ## Table of Contents
 
